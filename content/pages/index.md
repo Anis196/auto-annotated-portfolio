@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/Anis Edited Pic.jpg
+  url: /images/contact.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
