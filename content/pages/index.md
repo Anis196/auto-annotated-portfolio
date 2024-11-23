@@ -193,4 +193,5 @@ sections:
         textAlign: left
       text:
         textAlign: left
+socialImage: /images/anisedit1.png
 ---
