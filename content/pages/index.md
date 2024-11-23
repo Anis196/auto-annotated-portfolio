@@ -7,7 +7,7 @@ backgroundImage:
   url: /images/bg1.jpg
   backgroundSize: cover
   backgroundPosition: center
-  backgroundRepeat: repeat-y
+  backgroundRepeat: no-repeat
   opacity: 75
 sections:
   - elementId: ''
