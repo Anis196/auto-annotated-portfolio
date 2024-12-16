@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Multicanteen Preordering Systen
+title: 'Multicanteen Preordering Syste,'
 colors: colors-a
 date: '2021-10-15'
 client: Awesome client
